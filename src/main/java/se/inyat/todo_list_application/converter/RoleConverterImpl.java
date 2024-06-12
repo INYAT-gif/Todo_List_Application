@@ -1,7 +1,6 @@
 package se.inyat.todo_list_application.converter;
 
 import org.springframework.stereotype.Component;
-import se.inyat.todo_list_application.controller.RoleController;
 import se.inyat.todo_list_application.data.dto.RoleDTOView;
 import se.inyat.todo_list_application.data.entity.Role;
 
